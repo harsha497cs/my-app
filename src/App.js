@@ -329,7 +329,6 @@ function App() {
                   </li>
                   <li>
                     <span style={{ marginRight: 8 }}>
-                      <a style={{ color: '#0ea5e9', textDecoration: 'none' }} href="https://vercel.com/harsha-ps-projects?repo=https://github.com/harsha497cs/quiz-app" target="_blank" rel="noopener noreferrer">Quiz App</a> - Quiz App (live)
                     </span>
                     <button
                       style={{ background: '#0ea5e9', color: 'white', border: 'none', borderRadius: 6, padding: '6px 12px', cursor: 'pointer', fontWeight: 600 }}
