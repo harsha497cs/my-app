@@ -325,6 +325,7 @@ function App() {
                 <h4 style={{ color: '#e2e8f0', marginBottom: 8 }}>Freelance Projects & Personal Project</h4>
                 <ul style={{ color: '#94a3b8', paddingLeft: 18, lineHeight: 1.8 }}>
                   <li><a style={{ color: '#0ea5e9', textDecoration: 'none' }} href="https://collagewebsitclon.vercel.app/">collagewebsitclon.vercel.app</a> - College Website Clone (live)</li>
+                  <li><a style={{ color: '#0ea5e9', textDecoration: 'none' }} href="https://vercel.com/harsha-ps-projects?repo=https://github.com/harsha497cs/quiz-app" target="_blank" rel="noopener noreferrer">Quiz App</a> - Quiz App (live)</li>
                 </ul>
               
             </div>
