@@ -324,8 +324,19 @@ function App() {
               <div>
                 <h4 style={{ color: '#e2e8f0', marginBottom: 8 }}>Freelance Projects & Personal Project</h4>
                 <ul style={{ color: '#94a3b8', paddingLeft: 18, lineHeight: 1.8 }}>
-                  <li><a style={{ color: '#0ea5e9', textDecoration: 'none' }} href="https://collagewebsitclon.vercel.app/">collagewebsitclon.vercel.app</a> - College Website Clone (live)</li>
-                  <li><a style={{ color: '#0ea5e9', textDecoration: 'none' }} href="https://vercel.com/harsha-ps-projects?repo=https://github.com/harsha497cs/quiz-app" target="_blank" rel="noopener noreferrer">Quiz App</a> - Quiz App (live)</li>
+                  <li>
+                    <a style={{ color: '#0ea5e9', textDecoration: 'none' }} href="https://collagewebsitclon.vercel.app/">collagewebsitclon.vercel.app</a> - College Website Clone (live)
+                  </li>
+                  <li>
+                    <span style={{ marginRight: 8 }}>
+                      <a style={{ color: '#0ea5e9', textDecoration: 'none' }} href="https://vercel.com/harsha-ps-projects?repo=https://github.com/harsha497cs/quiz-app" target="_blank" rel="noopener noreferrer">Quiz App</a> - Quiz App (live)
+                    </span>
+                    <button
+                      style={{ background: '#0ea5e9', color: 'white', border: 'none', borderRadius: 6, padding: '6px 12px', cursor: 'pointer', fontWeight: 600 }}
+                    >
+                      Visit
+                    </button>
+                  </li>
                 </ul>
               
             </div>
