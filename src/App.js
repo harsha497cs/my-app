@@ -353,16 +353,7 @@ function App() {
               skills I'm familiar with!
             </p>
 
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 28, marginTop: 24 }}>
-              {[
-                { label: 'HTML 5', value: 50 },
-                { label: 'CSS 3', value: 50 },
-                { label: 'JavaScript', value: 25 },
-                { label: 'Figma', value: 50 },
-                { label: 'React JS', value: 50 },
-                { label: 'React Native', value: 50 },
-                { label: 'Photoshop', value: 70 }
-              ].map((skill, idx) => (
+ (
                 <div key={idx} style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', color: '#cbd5e1', fontSize: 14 }}>
                     <span>{skill.label}</span>
